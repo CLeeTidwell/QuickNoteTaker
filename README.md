@@ -41,6 +41,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Screenshots
 
+![Screenshot](./public/assets/screenshot1.png)
+![Screenshot](./public/assets/screenshot2.png)
 
 ## Setup
 
