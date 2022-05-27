@@ -34,7 +34,7 @@ app.get("/api/notes", function(req, res) {
 // API Route | "POST" request
 app.post("/api/notes", function(req, res) {
     const note = req.body;
-    readFileAsync("./develop/db/db.json", "utf8").then(function(data) {
+    readFileAsync(".db/db.json", "utf8").then(function(data) {
       const notes = [].concat(JSON.parse(data));
       note.id = notes.length + 1
       notes.push(note);
