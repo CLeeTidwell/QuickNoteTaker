@@ -46,7 +46,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Setup
 
+* Clone the repository
+* Run 'npm i' to install dependencies
 
+Or visit Heroku app site https://quicknotetaker2.herokuapp.com/
 
 ## License
 
