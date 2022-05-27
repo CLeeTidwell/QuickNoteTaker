@@ -41,15 +41,12 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Screenshots
 
-![Screenshot](./public/assets/screenshot1.png)
-![Screenshot](./public/assets/screenshot2.png)
+![Screenshot](./develop/public/assets/screenshot1.png)
+![Screenshot](./develop/public/assets/screenshot2.png)
 
 ## Setup
 
-* Clone the repository
-* Run 'npm i' to install dependencies
-
-Or visit Heroku app site https://quicknotetaker2.herokuapp.com/
+* visit Heroku app site https://quicknotetaker2.herokuapp.com/
 
 ## License
 
